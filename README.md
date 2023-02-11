@@ -27,7 +27,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### 安装
+## 安装
 
  ```BASH
 git clone https://github.com/rootlexblog/Heoweb.git
@@ -41,7 +41,8 @@ git clone https://github.com/rootlexblog/Heoweb.git
 ## 使用
 
 1.修改`config`主题配置
-1.完成主题配置
+<br>
+2.完成主题配置
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
