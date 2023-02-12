@@ -4,7 +4,7 @@
     <img src="/source/img/heo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Heohome</h3>
+<h3 align="center">Heoweb</h3>
 
   <p align="center">
     一个基于Heoweb开发的Hexo主页主题
@@ -28,7 +28,7 @@
 ## 安装
 
  ```BASH
-git clone https://github.com/rootlexblog/Heoweb.git
+git clone -b master https://github.com/rootlexblog/Heoweb.git themes/heoweb
  ```
 
 <!-- USAGE EXAMPLES -->
