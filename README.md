@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/rootlexblog/Heoweb/">
     <img src="/source/img/heo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,11 +12,11 @@
     <a href="/"><strong>查看文档 »</strong></a>
     <br />
     <br />
-    <a href="https://zhheo.com/">查看 Demo</a>
+    <a href="https://zhheo.com/">原项目 Demo</a>
+    ·
+    <a href="https://nalex.top/">此 Demo</a>
     ·
     <a href="https://github.com/rootlexblog/Heoweb/issues">Bug反馈</a>
-    ·
-    <a href="https://github.com/rootlexblog/Heoweb/issues">Request Feature</a>
   </p>
 </div>
 
@@ -25,17 +25,11 @@
 
 此项目是基于原项目 [zhheo/HeoWeb](https://github.com/zhheo/HeoWeb) 进行修改，并移植至Hexo
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 安装
 
  ```BASH
 git clone https://github.com/rootlexblog/Heoweb.git
  ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## 使用
@@ -43,10 +37,6 @@ git clone https://github.com/rootlexblog/Heoweb.git
 1.修改`config`主题配置
 <br>
 2.完成主题配置
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -57,10 +47,6 @@ git clone https://github.com/rootlexblog/Heoweb.git
     - [ ] Nested Feature
 
 See the [open issues](https://github.com/rootlexblog/Heoweb/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -76,4 +62,3 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
